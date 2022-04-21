@@ -12,10 +12,4 @@ In this project the team will build an inventorty system for an ever growing com
 * Frontend: HTML5, CSS3, JavaScript with the Vue.js 3 framework, and W3.CSS library.
 
 ## Team members
-* Michael Wolf - Team Lead
-* Andrew Maag - Senior Developer
-* Jeremee Trepp - Senior Developer
-* Sanaba Doumbouya - Junior Developer
-* Elliott Hager - Junior Developer
 * Kaitlyn Stackhouse - Junior Developer
-* Timothy Vanhoose - Junior Developer
