@@ -1,7 +1,7 @@
 # ComputerSciencePracticumI
 A comic book repository built as a three-month project. I contributed as a junior developer. 
 
-# 2022Winter-Team4-Michael
+# Spring 2022
 
 ## Comic Book Inventory System
 In this project the team will build an inventorty system for an ever growing comic book collections. Users will be able to create accounts, sign-in, and add view their whole collection. If they are interested in seeing the details of a particular issue they will be able to select and see those details. They will also be able to add issues to their collection every week when they come out.
