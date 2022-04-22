@@ -1,5 +1,5 @@
 # ComputerSciencePracticumI
-A comic book repository built as a three-month project. I contributed as a junior developer. 
+A comic book repository built as a three-month project. I contributed as a junior developer. For this project, I wrote the backend and frontend for adding and editing characters, wrote the backend and fronted of the search function for adding friends, and designed the styling for the entire site. 
 
 # Spring 2022
 
